@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View>
       <Text>Ez az én React Native alkalmazásom.</Text>
-      <Text>Név: Saját Név</Text>
+      <Text>Név: Lévai Panna</Text>
     </View>
   );
 }
